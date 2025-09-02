@@ -39,9 +39,13 @@ Thumbs.db
 
 # Prisma
 prisma/migrations/dev.db*
+server/src/generated/
 
 # TypeScript
 *.tsbuildinfo
 
 # Claude Code
 CLAUDE.md
+
+# Documentation (local planning files)
+docs/
